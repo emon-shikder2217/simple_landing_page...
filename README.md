@@ -18,7 +18,7 @@ Coffee Bliss is a responsive, visually appealing website that celebrates the wor
 
 - **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/Coffee-Bliss-Website.git
+   git clone https://github.com/emon-shikder2217/simple_landing_page....git
 
 ## 🖥️ Live Demo
 
