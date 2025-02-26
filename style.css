@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Happy+Monkey&family=Outfit:wght@100..900&family=Permanent+Marker&family=Varela+Round&display=swap");
+
+* {
+  margin: 0;
+
+  padding: 0;
+
+  box-sizing: border-box;
+}
+
+body {
+  background: url(coffee-hero-bg.jpg);
+  background-position: center;
+  background-size: cover;
+  font-family: "Outfit", serif;
+  letter-spacing: 3px;
+  height: 100vh;
+}
+
+header {
+  padding: 1rem;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #80563D;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  margin-right: 130px;
+}
+li {
+  margin-left: 20px;
+  cursor: pointer;
+  transition: 0.5s ease;
+}
+a {
+  color: #ba8160;
+  text-decoration: none;
+  transition: 0.5s ease;
+  font-size: 16px;
+  font-weight: 600;
+}
+a:hover {
+  color: #872E05;
+}
+.logo {
+  pointer-events: none;
+  color: #ba8160;
+}
+.hero {
+  display: flex;
+  flex-direction: column;
+}
+.content {
+  margin-top: 13%;
+  max-width: 600px;
+  right: 50%;
+  display: flex;
+  flex-direction: column;
+}
+
+.content .main_title {
+  font-size: 50px;
+  color: #ba8160;
+  font-weight: 800;
+  position: absolute;
+  max-width: 600px;
+  left: 5%;
+}
+
+.subtitle {
+  font-size: 15px;
+  color: #ba8160;
+  font-weight: 400;
+  position: absolute;
+  max-width: 600px;
+  left: 5%;
+  margin-top: 12%;
+  letter-spacing: 2px;
+}
+
+button {
+  margin-top: 18%;
+  margin-left: 5%;
+  position: absolute;
+  height: 60px;
+  width: 200px;
+  -webkit-border-radius: 70px;
+  -webkit-border-top-right-radius: 5px;
+  -webkit-border-bottom-left-radius: 5px;
+  -moz-border-radius: 70px;
+  -moz-border-radius-topright: 5px;
+  -moz-border-radius-bottomleft: 5px;
+  border-radius: 70px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  background: rgb(136, 132, 205);
+  background: rgb(205, 111, 56);
+  background: linear-gradient(90deg, #461100 35%, #360900 100%);
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  color: #ba8160;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  cursor: pointer;
+  
+}
