@@ -6,7 +6,7 @@ Welcome to the Coffee Bliss website repository! This project is a beautifully cr
 
 Here’s a glimpse of the Coffee Bliss website:
 
-![Coffee Bliss Screenshot](../photos/readme.png)  
+![Coffee Bliss Screenshot](photos/readme.png)  
 *Enjoy the rich, inviting design of our coffee-themed website!*
 
 ## 🚀 About the Project
