@@ -17,11 +17,11 @@ Coffee Bliss is a responsive, visually appealing website that celebrates the wor
 - **Simple Codebase**: Easy-to-read HTML and CSS, ideal for beginners and experienced developers alike.
 
 - **Clone the Repository**
--  ```sh
+-  ```bash
    git clone https://github.com/emon-shikder2217/simple_landing_page....git
 
-  ##🖥️ Live Demo
-   ```sh
+  ###🖥️ Live Demo
+   ```bash
    https://cooffee00.netlify.app/
 
 
